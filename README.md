@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Sebastian
 
-<!--
-**Sebastian-Vetter/Sebastian-Vetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 19 y/o IT student from Bavaria 🇩🇪  
+⚡ Specialized in backend — Next.js & REST APIs  
+🚀 Building & experimenting on [aptcode.de](https://aptcode.de)  
+📚 Always learning, always coding
 
-Here are some ideas to get you started:
+[![wakatime](https://wakatime.com/badge/user/@bc1c53d6-1079-4863-a832-7308f1e64fae)](https://wakatime.com/@sebastian) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 🟦 TypeScript, JavaScript
+- ⚙️ Next.js, Node.js, Express
+- 💾 MySQL, MongoDB
+- ☁️ Vercel, Docker
+
+---
+
+⭐ Let's connect and build something great!

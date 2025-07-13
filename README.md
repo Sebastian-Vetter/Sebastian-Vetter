@@ -9,10 +9,10 @@
 
 ## 🛠️ Tech Stack
 
-- 🟦 TypeScript, JavaScript
-- ⚙️ Next.js, Node.js, Express, Angular
+- 🟦 TypeScript, JavaScript, Java
+- ⚙️ Next.js, Node.js, Express, Angular, Spring
 - 💾 MongoDB, Redis
-- ☁️ Java, Docker
+- ☁️ Docker
 
 ---
 

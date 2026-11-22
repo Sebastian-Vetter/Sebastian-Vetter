@@ -5,12 +5,10 @@
 🚀 Building & experimenting on [aptcode.de](https://aptcode.de)  
 📚 Always learning, always coding
 
-[![wakatime](https://wakatime.com/badge/user/bc1c53d6-1079-4863-a832-7308f1e64fae.svg)](https://wakatime.com/@bc1c53d6-1079-4863-a832-7308f1e64fae)
-
 ## 🛠️ Tech Stack
 
 - 🟦 TypeScript, JavaScript, Java, Kotlin
-- ⚙️ Next.js, Node.js, Express, Angular, Spring
+- ⚙️ Next.js, Node.js, Express
 - 💾 MongoDB, Redis
 - ☁️ Docker
 

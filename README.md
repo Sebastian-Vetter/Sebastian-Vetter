@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sebastian
 
-💻 19 y/o IT student from Bavaria 🇩🇪  
+💻 20 y/o IT student from Bavaria 🇩🇪  
 ⚡ Specialized in backend — Next.js & REST APIs  
 🚀 Building & experimenting on [aptcode.de](https://aptcode.de)  
 📚 Always learning, always coding
